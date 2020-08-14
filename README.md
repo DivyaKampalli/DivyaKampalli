@@ -1,6 +1,5 @@
 ### Hello World 👋
 
-- 🔭 I’m currently working on Data Science
 - 🌱 I’m currently learning Data Science and JQuery
 - 👯 I’m looking to collaborate on some cool projects related to DataScience and Web Development
 - 📫 Reach me at: divya17032000@gmail.com
