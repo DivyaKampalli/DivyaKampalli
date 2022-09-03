@@ -1,12 +1,10 @@
-### Hello World 👋
+### Hey 👋
 
-- 🌱 I’m a Data Science Enthusiast 
-- 👯 I’m working on some cool projects related to DataScience and Web Development
+- 🌱 I’m Software Engineer @ Freshworks
 - 📫 Reach me at: divya17032000@gmail.com
 - 😄 Connect with me : https://www.linkedin.com/in/kampalli-divya-17032000/
 
 
   Cheers,
-  
   
   Divya Kampalli
